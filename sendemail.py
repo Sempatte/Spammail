@@ -2,6 +2,7 @@
 #Coded by: Sempatte
 #fSociety
 #www.fuck-society.com
+#v.1.2
 import os
 import smtplib
 import getpass
